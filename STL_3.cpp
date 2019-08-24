@@ -5,7 +5,7 @@ using namespace std;
 
 bool comp(int a,int b)                                    // boolean function returns true or false
 {
-    return a>b;                                           // return(b>a)  for ascending order
+    return a>b;                                           // return(b>a)  for ascending order, if(a>b){return 1;}
 }
 
 
