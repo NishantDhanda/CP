@@ -13,7 +13,7 @@ int main()
     {
         cout<<a[i]<<endl;
     }
-    sort(a,a+n);
+    sort(a,a+n);                                // uses quick sort
     cout<<"After sorting\n";
     for(int i=0;i<n;i++)
     {
